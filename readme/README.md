@@ -2,7 +2,7 @@ A list of READMEs created by different prompts with Claude
 
 ## "create a README.md"
 
-Created this [README.md file]([readme](https://github.com/emmairwin/ai-alignment-tests/blob/main/readme/readme-default-creation-claude.md)/)
+Created this [README.md file](https://github.com/emmairwin/ai-alignment-tests/blob/main/readme/readme-default-creation-claude.md)
 
 ### Obervations
 Techical default, no community related language or headings, did not ask any questions to inform a better README.
